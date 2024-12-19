@@ -1,0 +1,133 @@
+ .font1{
+
+    font-weight: 600px;
+ }
+ .bold{
+    font-weight: bold;
+ }
+ 
+ 
+ body {
+            font-family: Arial, sans-serif;
+            background-color: pink;
+        }
+        header {
+            background-color: #b30000;
+            color: #fff;
+            padding: 20px 0;
+            text-align: center;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            background: #800000;
+            padding: 10px 0;
+        }
+        nav a {
+            color: #fff;
+            
+            margin: 0 15px;
+            padding: 10px 15px;
+            border-radius: 5px;
+           
+        }
+        nav a:hover {
+            background: #b30000;
+        }
+      
+        
+        .bot {
+            background: #800000;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            position: absolute;
+                }
+        a {
+            color: #b30000;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+
+        /* */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #ffe6e6;
+            color: #333;
+        }
+       
+        .container {
+            max-width: 800px;
+            margin: 30px auto;
+            margin-left: 350px;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+            box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.2);
+            border-color: red;
+          
+
+        }
+        .container2 {
+            max-width: 300px;
+            margin: 30px auto;
+            margin-left: 70px;
+            padding: 20px;
+            background-color: #fff;
+            color: #b30000;
+            border-radius: 10px;
+            box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.2);
+            position: fixed;   
+           
+
+            
+        }
+
+        hr{
+            border: none;       /* Remove default styling */
+            height: 1px;
+            background-color:red;  
+        }
+        /* all the images */
+        .img_container1{
+         height: 300px ;
+         width: 110%
+        }
+        .img_container2{
+            height: 300px ;
+            width: 65%;
+            margin-left: 400px;
+            position:absolute;
+           }
+          
+        img{
+            width: 40%;
+            height:300px ;
+            border-radius: 10px;
+            margin-bottom: 15px;
+            box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.2);
+            border-radius: 10px;
+            transition: all 0.3s ease-in-out;
+        }
+       
+        ol {
+            color: black;
+        }
+        .container h2 {
+            color: #b30000;
+            text-align: center;
+           
+        }
+
+      
+
+      
+       
+
+       
